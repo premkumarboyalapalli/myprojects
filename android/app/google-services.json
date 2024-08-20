@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649664055509",
+    "project_id": "premsmsapp",
+    "storage_bucket": "premsmsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649664055509:android:fbea479f8120d1c8917a5c",
+        "android_client_info": {
+          "package_name": "com.example.jetbulksmsservices"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcKxD2ECVTXvnPbotPu8omdzzlLPnHzmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
